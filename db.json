@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Smartwatch",
+      "description": "You can check time with it.",
+      "picture": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/device-360/black/prod0.png",
+      "category": "Tech",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "description": "You wear it on your legs.",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Levi%27s_501_raw_jeans.jpg/800px-Levi%27s_501_raw_jeans.jpg",
+      "category": "Clothes",
+      "price": 42
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "description": "You wear it on your torso.",
+      "picture": "https://www.totalprotex.it/media/catalog/product/cache/default/image/500x500/9df78eab33525d08d6e5fb8d27136e95/a/n/anti-static-esd-t-shirt-0_3.jpg",
+      "category": "Clothes",
+      "price": 37
+    },
+    {
+      "name": "iPhone",
+      "description": "You can call",
+      "picture": "https://www.fitbit.com/global/content/dam/fitbit/global/pdp/devices/versa-4/device-360/black/prod0.png",
+      "category": "tech",
+      "price": "500",
+      "id": 4
+    },
+    {
+      "id": "21480383-d6e1-42d5-82e5-318f1a239c46",
+      "name": "jeans",
+      "description": "blue",
+      "picture": "",
+      "category": "",
+      "price": 1
+    }
+  ]
+}
